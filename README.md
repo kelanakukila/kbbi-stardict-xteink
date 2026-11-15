@@ -25,7 +25,5 @@ Kamus Besar Bahasa Indonesia (KBBI) offline dalam format StarDict (`.ifo`, `.idx
 
 
 ### 💡 Catatan / Notes
-* **Pencarian Kata:** Jika kata berimbuhan belum ditemukan, coba sorot kata dasarnya dengan huruf kecil semua tanpa tanda baca di belakangnya.
-* **Word Lookup:** If an affixed word returns no result, try highlighting the root word in lowercase without trailing punctuation.
 * **Credits:** Sumber basis data dari `kbbi3_dekos`, dikonversi ulang dan dioptimasi menggunakan PyGlossary & `dictzip`.
 
