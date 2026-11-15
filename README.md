@@ -2,7 +2,7 @@
 Offline Indonesian Dictionary (KBBI) in StarDict format  optimized &amp; ready for Xteink X4 Pro and KOReader.
 
 # Kamus Besar Bahasa Indonesia (KBBI) - StarDict Format
-**Lightweight & Compatible for Xteink X4 Pro (CrossPoint/CrossInk) & KOReader**
+**Lightweight & Compatible for Xteink X4 Pro (Licorice/CrossPoint/CrossInk) & KOReader**
 
 ---
 
