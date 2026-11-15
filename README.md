@@ -13,7 +13,7 @@ Kamus Besar Bahasa Indonesia (KBBI) offline dalam format StarDict (`.ifo`, `.idx
 * `kbbi_fixed.idx` — Indeks kata kunci yang telah dirampingkan (~1.3 MB)
 * `kbbi_fixed.dict.dz` — Database definisi terkompresi beserta pemenggalan suku kata (~2.6 MB)
 
-#Cara Pemasangan di Xteink X4 Pro
+# Cara Pemasangan di Xteink X4 Pro
 1. Unduh seluruh file di repository ini (klik tombol hijau Code → Download ZIP, lalu ekstrak).
 2. Buka aplikasi pendamping Xteink atau akses kartu SD perangkat.
 3. Masuk ke folder `dictionaries`, lalu buat folder baru (misalnya: `kbbi`).
