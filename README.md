@@ -14,7 +14,7 @@ Kamus Besar Bahasa Indonesia (KBBI) offline dalam format **StarDict** (`.ifo`, `
 | Folder | Edisi Kamus | Jumlah Lema | Keterangan |
 | :--- | :--- | :--- | :--- |
 | `/kbbi-vi` | **KBBI Edisi VI** *(Direkomendasikan)* | ~194.692 | Versi terbaru dan terlengkap dengan format teks bersih. |
-| `/kbbi-v` | KBBI Edisi V *(Arsip)* | ~112.000 | Versi rilis awal dengan ukuran berkas indeks lebih kecil. |
+| `/kbbi-iii` | KBBI Edisi III *(Arsip)* | ~78.000 | Versi rilis awal dengan ukuran berkas indeks lebih kecil. |
 
 ---
 
